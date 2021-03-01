@@ -21,6 +21,16 @@ If the parameter is eda then only the EDA from the data is used for classificati
 If the parameter is res then only the Respiration Rate from the data is used for classification.                                                                     
 If the parameter is all then all the data is fused together and used for classification.
 
+### Data Analysis
+![Image of Data](https://github.com/Venkat-2709/Pain-classification-with-Physiological-Signals/blob/master/Pictures/Screenshot%20from%202021-02-28%2015-28-35.png)
+![Image of Data](https://github.com/Venkat-2709/Pain-classification-with-Physiological-Signals/blob/master/Pictures/Screenshot%20from%202021-02-28%2015-28-34.png)
+
+This is signals from random subject in dataset for pain and no pain. There is lot of variations in the signals of the same person for both pain and no pain. 
+
+![Image of Data](https://github.com/Venkat-2709/Pain-classification-with-Physiological-Signals/blob/master/Pictures/Screenshot%20from%202021-02-28%2013-11-19.png)
+
+This is example of features that are created for training the classifier from the dataset. This is for one particular data type Systolic BP. 
+
 ### Output
 ```
 Results for LA Systolic BP_mmHg data
